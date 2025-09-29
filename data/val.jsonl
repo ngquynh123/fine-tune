@@ -1,0 +1,372 @@
+{"instruction": "Đạo đức giúp định hướng hành vi cá nhân ra sao?", "input": "", "output": "Bằng cách chỉ rõ điều nên làm và không nên làm theo chuẩn mực xã hội."}
+{"instruction": "Người lái xe cần chú ý gì khi mang theo bình nhiên liệu dự phòng?", "input": "", "output": "Phải đậy kín và để ở nơi thông thoáng."}
+{"instruction": "Nếu cầu chì đèn cháy, khắc phục ra sao?", "input": "", "output": "Thay cầu chì mới đúng trị số."}
+{"instruction": "Khi chạy tốc độ chậm nhưng để số cao, hậu quả là gì?", "input": "", "output": "Xe ì, hao nhiên liệu, dễ chết máy."}
+{"instruction": "Cách giảm điểm mù khi lái xe tải là gì?", "input": "", "output": "Sử dụng gương cầu lồi, gương phụ và quan sát kỹ."}
+{"instruction": "Ô tô có chạy trên đường ray không?", "input": "", "output": "Không, ô tô không chạy trên đường ray."}
+{"instruction": "Giải thích: nếu dốc dài thì chủ yếu dùng phanh động cơ, phanh chân?", "input": "", "output": "Nếu dốc dài thì chủ yếu dùng phanh động cơ, phanh chân chỉ hỗ trợ để tránh cháy má phanh."}
+{"instruction": "Số N có khác gì số 0 trên hộp số cơ khí?", "input": "", "output": "Không truyền động, tương tự số mo."}
+{"instruction": "Động cơ 6 xi lanh thẳng hàng có ưu điểm gì?", "input": "", "output": "Hoạt động êm ái, cân bằng tốt."}
+{"instruction": "Điểm mù khi lùi xe là gì?", "input": "", "output": "Vùng không thể quan sát bằng gương chiếu hậu, thường nằm sát phía sau xe."}
+{"instruction": "Vì sao đặt nằm nghiêng giúp nạn nhân tỉnh táo an toàn hơn?", "input": "", "output": "Vì giúp dịch nôn, máu hoặc dị vật chảy ra ngoài, tránh sặc."}
+{"instruction": "Cần số là gì?", "input": "", "output": "Cần số: Điều chỉnh tỷ số truyền giữa động cơ và bánh xe, giúp xe vận hành hiệu quả trên các loại địa hình."}
+{"instruction": "Giải thích: nên xả bớt gas lạnh, kiểm tra và thay thế van tiết?", "input": "", "output": "Nên xả bớt gas lạnh, kiểm tra và thay thế van tiết lưu và vệ sinh dàn lạnh."}
+{"instruction": "Rượu, bia ảnh hưởng gì đến phản xạ khi lái xe?", "input": "", "output": "Làm chậm phản xạ."}
+{"instruction": "Khi giảm số, người lái cần làm gì trước?", "input": "", "output": "Đạp hết bàn đạp ly hợp."}
+{"instruction": "Giải thích: khắc phục bằng cách vệ sinh dàn nóng và thay/sửa quạt.?", "input": "", "output": "Khắc phục bằng cách vệ sinh dàn nóng và thay/sửa quạt."}
+{"instruction": "Hệ thống làm mát góp phần ổn định công suất động cơ bằng cách nào?", "input": "", "output": "Duy trì nhiệt độ lý tưởng để nhiên liệu cháy hiệu quả."}
+{"instruction": "Trước khi quay đầu ở ngã tư, cần quan sát những gì?", "input": "", "output": "Tín hiệu đèn giao thông, xe đối diện, xe đi thẳng và người đi bộ."}
+{"instruction": "Máy phát điện thường được truyền động bằng gì?", "input": "", "output": "Bằng dây curoa nối từ trục khuỷu động cơ."}
+{"instruction": "Đèn pha không sáng thường do nguyên nhân nào?", "input": "", "output": "Bóng đèn cháy hoặc cầu chì đèn hỏng."}
+{"instruction": "Vì sao cần quan sát cả hai phía sau khi rào chắn mở?", "input": "", "output": "Vì vẫn có thể có tàu chạy đến từ chiều ngược lại."}
+{"instruction": "Người có giấy phép lái xe hạng d được điều khiển loại xe nào dưới đây?", "input": "", "output": "Ý 1 và ý 2."}
+{"instruction": "Nguyên tắc chọn điểm buộc cáp tời là gì?", "input": "", "output": "Phải chọn cột hoặc cây vững chắc."}
+{"instruction": "Người lái có được quay đầu xe trên đường sắt không rào chắn không?", "input": "", "output": "Không, rất nguy hiểm."}
+{"instruction": "Hậu quả khi sạc bằng cáp không đạt chuẩn là gì?", "input": "", "output": "Gây chập điện và cháy."}
+{"instruction": "Người lái cần đạp phanh như thế nào khi dừng giữa dốc xuống?", "input": "", "output": "Đạp phanh sớm và mạnh để giảm tốc độ."}
+{"instruction": "Giải thích: khắc phục bằng cách kiểm tra, thay motor/rơ-le, sửa dây dẫn đứt?", "input": "", "output": "Khắc phục bằng cách kiểm tra, thay motor/rơ-le, sửa dây dẫn đứt và siết chặt kết nối, thay ắc quy."}
+{"instruction": "Giải thích: Đối với người lái xe dùng nhiên liệu hóa thạch thì dừng?", "input": "", "output": "Đối với người lái xe dùng nhiên liệu hóa thạch thì dừng xe ngay lập tức ở nơi an toàn, cách xa khu dân cư, trạm xăng; tắt khóa điện, ngắt kết nối ắc quy nếu có thể; không mở nắp ca pô hoàn toàn nếu cháy trong khoang động cơ;"}
+{"instruction": "Đèn pha chủ động có chức năng gì?", "input": "", "output": "Tự động chuyển từ pha sang cos khi có xe ngược chiều."}
+{"instruction": "Nếu pin xe điện bị ngập nước và phát nổ, người lái cần làm gì?", "input": "", "output": "Giữ khoảng cách an toàn, gọi cứu hỏa."}
+{"instruction": "Nguyên lý làm việc của máy phát điện?", "input": "", "output": "Rô-to quay tạo từ trường biến thiên, sinh ra dòng điện xoay chiều."}
+{"instruction": "Thực hiện văn hóa giao thông giúp tạo thói quen gì?", "input": "", "output": "Đi lại an toàn, có trật tự."}
+{"instruction": "Khi phanh trên đường trơn, cần thao tác ra sao?", "input": "", "output": "Phanh nhẹ, giữ thẳng lái."}
+{"instruction": "Nếu chở hàng cồng kềnh, tài xế cần làm gì?", "input": "", "output": "Cố định chắc chắn, gắn biển báo hiệu hàng cồng kềnh theo quy định."}
+{"instruction": "Giải thích: đồng thời tắt các thiết bị âm thanh, hạ cửa kính để?", "input": "", "output": "Đồng thời tắt các thiết bị âm thanh, hạ cửa kính để quan sát và lắng nghe còi tàu."}
+{"instruction": "Nền đạo đức mới ở Việt Nam hiện nay hình thành trong điều kiện nào?", "input": "", "output": "Nó hình thành trong bối cảnh xây dựng chủ nghĩa xã hội và hội nhập toàn cầu."}
+{"instruction": "Lái xe cần chú ý gì khi dừng chờ ở đường sắt có dốc?", "input": "", "output": "Phải kéo phanh tay và giữ xe bằng số phù hợp."}
+{"instruction": "Có biện pháp nào giúp đào thải rượu nhanh hơn không?", "input": "", "output": "Không, chỉ có thời gian mới giúp."}
+{"instruction": "Người có văn hóa giao thông sử dụng còi xe ra sao?", "input": "", "output": "Đúng mục đích, không gây ồn ào."}
+{"instruction": "Nguyên nhân khiến hệ thống lái phát ra tiếng kêu bất thường?", "input": "", "output": "Có thể do bạc đạn, rotuyn hoặc thước lái hỏng."}
+{"instruction": "Xếp hàng nặng về một bên xe có nguy hiểm gì?", "input": "", "output": "Làm xe nghiêng, tăng nguy cơ lật khi vào cua."}
+{"instruction": "Van hằng nhiệt kẹt đóng gây hậu quả gì?", "input": "", "output": "Làm nước không lưu thông, động cơ nhanh chóng quá nhiệt."}
+{"instruction": "Đi xe lên vỉa hè khi tắc đường có sai không?", "input": "", "output": "Sai, gây nguy hiểm cho người đi bộ."}
+{"instruction": "Giải thích: là sự hiểu biết và chấp hành nghiêm chỉnh luật giao thông,?", "input": "", "output": "Là sự hiểu biết và chấp hành nghiêm chỉnh luật giao thông, thể hiện ý thức trách nhiệm với cộng đồng;"}
+{"instruction": "Tại sao nên dùng đồng hồ đo áp suất lốp?", "input": "", "output": "Để kiểm tra chính xác áp suất so với khuyến nghị."}
+{"instruction": "Giải thích: Khi nhả ly hợp, nên nhả nhanh 2/3 hành trình đầu và?", "input": "", "output": "Khi nhả ly hợp, nên nhả nhanh 2/3 hành trình đầu và từ từ 1/3 cuối để tránh xe bị giật."}
+{"instruction": "Tại sao không nên đáp trả hành vi lái xe ẩu bằng cách tương tự?", "input": "", "output": "Vì dễ gây xung đột và tai nạn."}
+{"instruction": "Đạo đức nghề nghiệp góp phần xây dựng điều gì trong doanh nghiệp?", "input": "", "output": "Nề nếp kỷ luật và môi trường làm việc lành mạnh."}
+{"instruction": "Trước khi tháo lốp cần làm gì?", "input": "", "output": "Xả hết hơi trong lốp."}
+{"instruction": "Phanh tay có tác dụng gì khi đỗ xe?", "input": "", "output": "Giữ cho xe đứng yên, không bị trôi."}
+{"instruction": "Số điện thoại gọi cảnh sát giao thông ở Việt Nam là gì?", "input": "", "output": "113."}
+{"instruction": "Xe cứu hộ giao thông đường bộ cần thực hiện yêu cầu nào sau đây để bảo đảm trật tự an toàn giao thông?", "input": "", "output": "Cả hai ý trên."}
+{"instruction": "Lọc gió bẩn ảnh hưởng gì đến tiêu hao nhiên liệu?", "input": "", "output": "Khi không khí vào ít, ECU tăng lượng phun, gây hao xăng."}
+{"instruction": "Vai trò của đạo đức mới trong chống tham nhũng?", "input": "", "output": "Đề cao trung thực, liêm khiết và trách nhiệm, từ đó hạn chế hành vi tham nhũng."}
+{"instruction": "Rò rỉ gas lạnh thường xuất hiện ở đâu?", "input": "", "output": "Tại ống dẫn, khớp nối hoặc gioăng cao su."}
+{"instruction": "Nhiệt độ tự cháy của diesel cao hơn hay thấp hơn xăng?", "input": "", "output": "Cao hơn."}
+{"instruction": "Giải thích: sau khi vượt, bật đèn rẽ phải, trở lại làn và điều?", "input": "", "output": "Sau khi vượt, bật đèn rẽ phải, trở lại làn và điều chỉnh tốc độ."}
+{"instruction": "Tại sao cần kiểm tra hệ thống làm mát trên ô tô chạy bằng xăng hoặc dầu?", "input": "", "output": "Để tránh quá nhiệt động cơ"}
+{"instruction": "Điều gì xảy ra nếu cố tình vượt qua rào chắn khi có tàu?", "input": "", "output": "Nguy cơ tai nạn nghiêm trọng, bị xử phạt nặng theo luật."}
+{"instruction": "Xuống dốc dài nên dùng số nào?", "input": "", "output": "Số thấp (2 hoặc 1)."}
+{"instruction": "Người lái xe phải giảm tốc độ, có tín hiệu rẽ phải và đi sát về bên phải của phần đường xe chạy trong các trường hợp nào dưới đây?", "input": "", "output": "Khi xe sau xin vượt nếu đủ điều kiện an toàn."}
+{"instruction": "Dấu hiệu nào cho biết động cơ ô tô gặp sự cố?", "input": "", "output": "Đèn báo kiểm tra động cơ sáng, động cơ phát ra tiếng gõ lạ, hoặc có hiện tượng chảy dầu."}
+{"instruction": "Tính cộng đồng của văn hóa giao thông là gì?", "input": "", "output": "Là sự tôn trọng, nhường nhịn và giúp đỡ người khác."}
+{"instruction": "Người có giấy phép lái xe mô tô hạng a1 không được phép điều khiển loại xe nào dưới đây?", "input": "", "output": "Xe mô tô ba bánh."}
+{"instruction": "Phóng nhanh, vượt ẩu gây hậu quả gì?", "input": "", "output": "Tăng nguy cơ tai nạn."}
+{"instruction": "Khi nào cần nới lỏng garo?", "input": "", "output": "Nếu phải chờ lâu, nên nới lỏng định kỳ (5–10 giây mỗi 30 phút)."}
+{"instruction": "Điều kiện nào khiến hệ thống khó hoạt động?", "input": "", "output": "Đường mờ vạch, trời mưa to, tuyết phủ."}
+{"instruction": "Giải thích: Nếu có xe ngược chiều đến gần, cần nhanh chóng quyết định?", "input": "", "output": "Nếu có xe ngược chiều đến gần, cần nhanh chóng quyết định hoàn tất vượt hoặc trở về làn cũ."}
+{"instruction": "Người lái xe cần học tập bổ sung kiến thức gì?", "input": "", "output": "Luật giao thông, kỹ năng xử lý tình huống và công nghệ mới."}
+{"instruction": "Nếu dải phân cách quá hẹp, tài xế cần xử lý thế nào?", "input": "", "output": "Tiến – lùi nhiều lần để điều chỉnh hướng quay."}
+{"instruction": "Giải thích: Khi có sương mù hoặc mưa to, phải bật đèn cốt và?", "input": "", "output": "Khi có sương mù hoặc mưa to, phải bật đèn cốt và đèn vàng nếu có, điều chỉnh gạt nước, giảm tốc độ, giữ khoảng cách an toàn, tránh đi sát lề;"}
+{"instruction": "Bộ phận nào của lốp ảnh hưởng nhiều nhất đến tuổi thọ lốp?", "input": "", "output": "Lớp nệm bố."}
+{"instruction": "Sau khi rời xe, người lái cần làm gì tiếp?", "input": "", "output": "Gọi lực lượng cứu hỏa ngay."}
+{"instruction": "Đèn báo tắt hệ thống cân bằng điện tử sáng nghĩa là gì?", "input": "", "output": "Hệ thống cân bằng điện tử đã bị tắt."}
+{"instruction": "Hơi xăng tiếp xúc trực tiếp mặt có hại gì?", "input": "", "output": "Gây ngộ độc và kích ứng."}
+{"instruction": "Giải thích: Cài dây an toàn là bước không thể bỏ qua trước khi?", "input": "", "output": "Cài dây an toàn là bước không thể bỏ qua trước khi bắt đầu di chuyển."}
+{"instruction": "Khi không thể di chuyển xe, cần làm gì ngay?", "input": "", "output": "Báo cơ quan chức năng."}
+{"instruction": "Có nên phanh gấp khi trời mưa đường trơn không?", "input": "", "output": "Không, phanh từ từ để tránh trượt."}
+{"instruction": "Ắc quy ô tô có tác dụng gì?", "input": "", "output": "Ắc quy cung cấp điện năng để khởi động động cơ và nuôi các thiết bị điện."}
+{"instruction": "Không nhường đường cho người già và trẻ nhỏ thể hiện gì?", "input": "", "output": "Thiếu đạo đức và thiếu văn hóa giao thông."}
+{"instruction": "Nhiên liệu diesel bốc cháy bằng cách nào?", "input": "", "output": "Tự cháy nhờ nhiệt độ và áp suất cao cuối kỳ nén."}
+{"instruction": "Trục khuỷu có nhiệm vụ chính là gì?", "input": "", "output": "Nhận lực từ piston để quay và truyền công suất ra ngoài."}
+{"instruction": "Dấu hiệu nào cho thấy ắc quy bị hỏng?", "input": "", "output": "Xe không khởi động được, điện yếu, đèn mờ."}
+{"instruction": "Vì sao không được chở hàng quá khổ mà không đảm bảo an toàn?", "input": "", "output": "Dễ gây cản trở giao thông và mất an toàn cho phương tiện khác."}
+{"instruction": "Nguyên nhân chính làm lốp mòn không đều là gì?", "input": "", "output": "Do áp suất sai hoặc góc đặt bánh xe không chuẩn."}
+{"instruction": "Đạo đức mới giúp xây dựng con người Việt Nam thế nào?", "input": "", "output": "Thành những công dân có tri thức, nhân cách và trách nhiệm xã hội."}
+{"instruction": "Giải thích: nếu dốc cao thì về số thấp và kết hợp phanh động?", "input": "", "output": "Nếu dốc cao thì về số thấp và kết hợp phanh động cơ với phanh chân để kiểm soát tốc độ;"}
+{"instruction": "Khi xuống dốc, muốn dừng xe, người lái xe cần thực hiện các thao tác nào để bảo đảm an toàn?", "input": "", "output": "Có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số 1, đạp 1/2 ly hợp (côn) cho xe đến chỗ dừng; khi xe đã dừng, về số không (n), đạp phanh chân, sử dụng phanh đỗ."}
+{"instruction": "Vì sao phải cài dây an toàn trước khi khởi hành?", "input": "", "output": "Để bảo vệ bản thân trong trường hợp va chạm."}
+{"instruction": "Động cơ nhiều xi lanh giúp cải thiện yếu tố nào ngoài công suất?", "input": "", "output": "Tăng độ ổn định, giảm rung lắc và tăng tuổi thọ động cơ."}
+{"instruction": "Khi rẽ phải, cần nhường đường cho ai?", "input": "", "output": "Xe đi thẳng, xe máy và người đi bộ."}
+{"instruction": "Giải thích: Đường cao tốc là loại đường an toàn hơn vì các phương?", "input": "", "output": "Đường cao tốc là loại đường an toàn hơn vì các phương tiện di chuyển cùng chiều và không có giao cắt hay người đi bộ, tuy nhiên do tốc độ cao nên chỉ một va chạm nhỏ cũng có thể gây tai nạn nghiêm trọng."}
+{"instruction": "Trình tự tăng số trên hộp số cơ khí là như thế nào?", "input": "", "output": "Tuần tự 0 → 1 → 2 → 3 → 4 → 5."}
+{"instruction": "Tại sao không nên dùng dầu diesel bẩn?", "input": "", "output": "Làm hỏng vòi phun và bơm cao áp."}
+{"instruction": "Nơi nào cấm quay đầu xe?", "input": "", "output": "Cả hai ý trên."}
+{"instruction": "Vì sao hệ thống lái cần đảm bảo độ chính xác cao?", "input": "", "output": "Vì ảnh hưởng trực tiếp đến an toàn khi xe vận hành."}
+{"instruction": "Khắc phục thế nào khi cảm biến hộp số hỏng?", "input": "", "output": "Thay cảm biến tốc độ hoặc cảm biến vị trí cần số."}
+{"instruction": "Khi muốn hiểu rõ ký hiệu lốp, người dùng cần làm gì?", "input": "", "output": "Xem sổ tay hướng dẫn hoặc tra website của nhà sản xuất."}
+{"instruction": "Giải thích: Nếu không có tàu, nên về số thấp (1 hoặc 2), giữ?", "input": "", "output": "Nếu không có tàu, nên về số thấp (1 hoặc 2), giữ tốc độ ổn định và tuyệt đối không đổi số khi vượt qua đường ray để tránh kẹt bánh xe.Trong trường hợp xe bị hỏng trên đường sắt, nếu còn di chuyển được thì phải về số 0 và huy động người đẩy xe ra khỏi đường ray."}
+{"instruction": "Nhà trường cần làm gì để xây dựng văn hóa giao thông?", "input": "", "output": "Tổ chức giáo dục, tuyên truyền cho học sinh."}
+{"instruction": "Dấu hiệu nhận biết động cơ quá nhiệt?", "input": "", "output": "Kim nhiệt độ tăng cao, đèn báo nhiệt sáng, có thể có khói hơi nước."}
+{"instruction": "Chế hòa khí thay thế bằng gì trong động cơ hiện đại?", "input": "", "output": "Vòi phun điện tử."}
+{"instruction": "Giải thích: đòi hỏi khả năng điều khiển xe kết hợp nhiều giác quan?", "input": "", "output": "Đòi hỏi khả năng điều khiển xe kết hợp nhiều giác quan và phản xạ nhanh;"}
+{"instruction": "Dấu hiệu bugi hỏng là gì?", "input": "", "output": "Động cơ nổ không đều, khó khởi động, hao nhiên liệu."}
+{"instruction": "Chức năng chính của ABS là gì?", "input": "", "output": "Ngăn bánh xe bị khóa khi phanh gấp, duy trì điều khiển."}
+{"instruction": "Ắc quy bị hỏng thường do nguyên nhân nào?", "input": "", "output": "Do sulfat hóa bản cực, rò rỉ dung dịch hoặc nạp xả sai cách."}
+{"instruction": "Hành khách có nên quay lại xe lấy đồ đạc không?", "input": "", "output": "Không, ưu tiên tính mạng."}
+{"instruction": "Khi xe rung lắc mạnh trên đường xấu, người lái cần làm gì?", "input": "", "output": "Giữ ga đều, không đánh lái đột ngột."}
+{"instruction": "Loại phun nào phổ biến trên ô tô hiện đại?", "input": "", "output": "Phun đa điểm."}
+{"instruction": "Nếu mất điện trong hầm, người lái cần làm gì?", "input": "", "output": "Giữ bình tĩnh, bật đèn cảnh báo và tuân theo hướng dẫn của quản lý hầm."}
+{"instruction": "Vì sao lọc nhiên liệu bẩn làm xe tốn xăng?", "input": "", "output": "Kim phun phải hoạt động nhiều hơn để cung cấp đủ nhiên liệu."}
+{"instruction": "Cách xử lý xe lắc ngang ở tốc độ cao?", "input": "", "output": "Cân bằng động bánh xe, thay giảm xóc mòn."}
+{"instruction": "Giải thích: khai thông đường thở bằng cách móc dị vật ra, sử dụng?", "input": "", "output": "Khai thông đường thở bằng cách móc dị vật ra, sử dụng nghiệm pháp nâng cằm hoặc đẩy hàm;"}
+{"instruction": "Ví dụ về hành vi đạo đức trong kinh doanh.?", "input": "", "output": "Không buôn bán hàng giả, giữ chữ tín với khách hàng."}
+{"instruction": "Không giữ khoảng cách an toàn thường gây ra hậu quả gì?", "input": "", "output": "Va chạm liên hoàn."}
+{"instruction": "BA/BAS là hệ thống gì?", "input": "", "output": "Brake Assist System – Hỗ trợ phanh khẩn cấp."}
+{"instruction": "Nguyên nhân xe bị rung mạnh khi phanh?", "input": "", "output": "Đĩa phanh cong hoặc lốp mất cân bằng."}
+{"instruction": "Người dân tham gia cứu hộ tai nạn cần lưu ý gì?", "input": "", "output": "Đảm bảo an toàn cho bản thân trước."}
+{"instruction": "Tại sao lái xe ô tô đòi hỏi phản xạ nhanh?", "input": "", "output": "Vì tình huống bất ngờ trên đường có thể xảy ra bất cứ lúc nào."}
+{"instruction": "Giải thích: Đối với sự cố về hệ thống phanh, các dấu hiệu thường?", "input": "", "output": "Đối với sự cố về hệ thống phanh, các dấu hiệu thường gặp bao gồm đèn báo phanh đỗ, đèn báo hệ thống ABS, đèn báo hệ thống phân bổ lực phanh, tiếng kêu \"két két\", lực đạp phanh lớn hơn bình thường, hành trình bàn đạp phanh bất thường hoặc xe bị chệch hướng khi phanh."}
+{"instruction": "Thông số lốp giúp người dùng xác định điều gì về xe?", "input": "", "output": "Loại lốp phù hợp nhất với xe."}
+{"instruction": "Khi động cơ kêu 'lóc cóc' khi tăng ga, có thể do nguyên nhân gì?", "input": "", "output": "Đánh lửa sớm hoặc nhiên liệu kém chất lượng."}
+{"instruction": "Xăng được đưa đến chế hòa khí bằng bộ phận nào?", "input": "", "output": "Bơm xăng."}
+{"instruction": "Vị trí ép tim là ở đâu?", "input": "", "output": "1/2 dưới xương ức, giữa ngực."}
+{"instruction": "Nếu quay đầu ở ngã tư khi đèn đỏ, có vi phạm luật không?", "input": "", "output": "Có, trừ khi có biển báo cho phép quay đầu khi đèn đỏ."}
+{"instruction": "Nếu thiếu dầu hộp số, biện pháp khắc phục là gì?", "input": "", "output": "Bổ sung hoặc thay dầu hộp số đúng loại."}
+{"instruction": "Xe chạy yếu hơn bình thường là do sự cố nào?", "input": "", "output": "Hệ thống nhiên liệu hoặc đánh lửa có vấn đề."}
+{"instruction": "Xây dựng văn hóa giao thông là trách nhiệm của ai?", "input": "", "output": "Của mỗi cá nhân và toàn xã hội."}
+{"instruction": "Khi điều khiển xe ô tô tới gần xe chạy ngược chiều vào ban đêm, người lái xe cần thực hiện các thao tác nào để bảo đảm an toàn?", "input": "", "output": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình."}
+{"instruction": "Tại sao người lái xe phải có lối sống lành mạnh?", "input": "", "output": "Để giữ sức khỏe, tránh xa tệ nạn và làm việc an toàn."}
+{"instruction": "Tại sao cần tránh tự ý di chuyển phương tiện khi tai nạn nghiêm trọng?", "input": "", "output": "Vì có thể làm sai lệch hiện trường phục vụ điều tra."}
+{"instruction": "Trụ A trên ô tô con gây ra điểm mù ở đâu?", "input": "", "output": "Gây cản trở tầm nhìn ở góc chéo phía trước."}
+{"instruction": "Người lái xe ô tô vận chuyển hành khách phải có những phẩm chất, đạo đức nghề nghiệp gì dưới đây?", "input": "", "output": "Cả hai ý trên."}
+{"instruction": "Khói xanh lam từ ống xả thường do nguyên nhân nào?", "input": "", "output": "Dầu động cơ lọt vào buồng đốt."}
+{"instruction": "Cầu chì có chức năng gì?", "input": "", "output": "Bảo vệ mạch điện khi quá dòng."}
+{"instruction": "Xe ben dễ mất ổn định ở tình huống nào nhất?", "input": "", "output": "Khi đổ hàng trên nền đất yếu hoặc khi vào cua gấp."}
+{"instruction": "Khi điều khiển xe ô tô tự đổ, người lái xe cần chú ý những điểm gì để bảo đảm an toàn?", "input": "", "output": "Ý 1 và ý 3."}
+{"instruction": "Khi đi đường lầy, tại sao không nên để bánh xe quay nhanh?", "input": "", "output": "Vì càng quay nhanh càng lún sâu."}
+{"instruction": "Người tham gia giao thông cần đi đúng gì?", "input": "", "output": "Đúng làn đường, phần đường."}
+{"instruction": "Khi đỗ xe tại trạm xăng, tài xế cần lưu ý gì?", "input": "", "output": "Không nổ máy và không để lửa gần đó."}
+{"instruction": "Giải thích: di chuyển phương tiện (nếu cần thiết) là trong trường hợp tai?", "input": "", "output": "Di chuyển phương tiện (nếu cần thiết) là trong trường hợp tai nạn nhẹ, có thể di dời phương tiện để tránh cản trở giao thông."}
+{"instruction": "Giải thích: biện pháp là thay mới cao su treo bị mòn và kiểm?", "input": "", "output": "Biện pháp là thay mới cao su treo bị mòn và kiểm tra, điều chỉnh lại phân bố tải trọng nếu cần."}
+{"instruction": "Có nên tiếp cận xe điện đang cháy để cứu đồ không?", "input": "", "output": "Không, vì nguy hiểm nổ pin."}
+{"instruction": "Ý thức giữ gìn môi trường giao thông thể hiện điều gì?", "input": "", "output": "Trách nhiệm với cộng đồng."}
+{"instruction": "Cách sấy buồng đốt khi khởi động động cơ dầu là gì?", "input": "", "output": "Vặn chìa khóa đến vị trí ON, chờ đèn sấy tắt."}
+{"instruction": "Giải thích: Hệ thống đánh lửa, được dùng trong động cơ xăng, có nhiệm?", "input": "", "output": "Hệ thống đánh lửa, được dùng trong động cơ xăng, có nhiệm vụ biến đổi dòng điện áp thấp (6V–12V) thành điện áp cao (15.000V–20.000V) để tạo tia lửa điện tại bugi, bao gồm loại đánh lửa có tiếp điểm (sử dụng cam, mô bin, tụ điện để tạo ra lửa) và đánh lửa điều khiển điện tử (ECU điều khiển thời điểm đánh lửa dựa trên tín hiệu từ cảm biến)."}
+{"instruction": "Người lái cần kiểm tra gì trước khi vận hành xe?", "input": "", "output": "Kiểm tra hành trình pedal phanh, dầu phanh, hoạt động của ABS."}
+{"instruction": "Làn đường là gì?", "input": "", "output": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn."}
+{"instruction": "Giải thích: khi sử dụng xe ô tô có tời kéo, cần gài số?", "input": "", "output": "Khi sử dụng xe ô tô có tời kéo, cần gài số 0 trên hộp số chính, nối khớp tời, gài số hộp trích công suất, nhả ly hợp và tăng ga, đồng thời chọn cột hoặc cây vững chắc để buộc cáp khi dùng tời kéo xe."}
+{"instruction": "Dấu hiệu bong gân là gì?", "input": "", "output": "Đau, sưng, bầm tím quanh khớp."}
+{"instruction": "Giải thích: nguyên lý hoạt động gồm bơm nước hút nước từ két, dẫn?", "input": "", "output": "Nguyên lý hoạt động gồm bơm nước hút nước từ két, dẫn đến xi lanh và buồng cháy để làm mát, van hằng nhiệt điều chỉnh dòng nước: khi nhiệt độ dưới 80°C nước chỉ tuần hoàn trong động cơ còn khi trên 80°C nước đi qua két làm mát, quạt làm mát hỗ trợ tản nhiệt khi nhiệt độ độ động cơ trên 80°C."}
+{"instruction": "Pháp luật Việt Nam cấm lái xe trong trường hợp nào?", "input": "", "output": "Khi trong máu hoặc hơi thở có nồng độ cồn."}
+{"instruction": "Khi muốn dừng xe, người lái cần bật tín hiệu gì?", "input": "", "output": "Xi nhan phải để báo dừng."}
+{"instruction": "Bánh xe giúp ô tô tăng độ êm dịu như thế nào?", "input": "", "output": "Nhờ phần lốp đàn hồi giảm chấn động từ mặt đường."}
+{"instruction": "Cần chuyển số theo thứ tự như thế nào khi tăng số?", "input": "", "output": "Chuyển số từ thấp đến cao theo thứ tự 1-2-3-4-5."}
+{"instruction": "Sau khi ra khỏi chỗ đỗ, người lái cần thao tác gì với vô lăng?", "input": "", "output": "Đánh lái để xe di chuyển đúng hướng."}
+{"instruction": "Người có văn hóa giao thông tạo ra ảnh hưởng gì?", "input": "", "output": "Lan tỏa hành vi văn minh cho người khác."}
+{"instruction": "Hộp số tự động sang số đột ngột là do đâu?", "input": "", "output": "Do ECU lỗi hoặc cảm biến sai tín hiệu."}
+{"instruction": "Tính cộng đồng góp phần tạo nên điều gì trong xã hội?", "input": "", "output": "Môi trường giao thông nhân văn, an toàn."}
+{"instruction": "Dấu hiệu má phanh bị quá nóng khi xuống dốc dài là gì?", "input": "", "output": "Có mùi khét hoặc giảm hiệu quả phanh."}
+{"instruction": "Giải thích: sau khi sơ cứu nên báo cáo ngay cho cơ quan chức?", "input": "", "output": "Sau khi sơ cứu nên báo cáo ngay cho cơ quan chức năng và tuân theo hướng dẫn để đảm bảo cứu hộ kịp thời."}
+{"instruction": "Ghế đặt quá gần vô lăng nguy hiểm thế nào?", "input": "", "output": "Khi túi khí bung, có thể gây chấn thương nặng cho ngực và mặt."}
+{"instruction": "Tại sao phải bật đèn báo rẽ khi quay đầu ở dải phân cách?", "input": "", "output": "Để cảnh báo phương tiện xung quanh."}
+{"instruction": "Giải thích: khi rẽ phải, quan sát gương chiếu hậu bên phải và cửa?", "input": "", "output": "Khi rẽ phải, quan sát gương chiếu hậu bên phải và cửa sổ, bật đèn báo rẽ phải, chuyển làn, giảm tốc độ, nhường đường cho xe đi thẳng xe thẳng, xe máy và người đi bộ trước khi đánh lái để rẽ."}
+{"instruction": "Người có văn hóa an toàn giao thông luôn tuân thủ gì?", "input": "", "output": "Luật lệ và quy định an toàn."}
+{"instruction": "Người lái cần làm gì để tránh va chạm với xe đầu kéo rẽ phải?", "input": "", "output": "Giảm tốc độ để giữ khoảng cách an toàn."}
+{"instruction": "Nguyên nhân phổ biến nhất gây cháy, nổ trên xe ô tô sử dụng nhiên liệu hóa thạch là gì?", "input": "", "output": "Rò rỉ nhiên liệu"}
+{"instruction": "Để tránh đổ, ngã khi điều khiển xe mô tô hai bánh ở nơi đường xấu, nhỏ và hẹp, người lái xe cần xử lý như thế nào?", "input": "", "output": "Cả ba ý trên."}
+{"instruction": "Nếu tay lái trả chậm, cần kiểm tra gì?", "input": "", "output": "Kiểm tra dầu trợ lực lái và bơm trợ lực."}
+{"instruction": "Khi lùi xe, cần quan sát bằng gì?", "input": "", "output": "Gương chiếu hậu và quan sát trực tiếp."}
+{"instruction": "Bật đèn xin đường khi nào?", "input": "", "output": "Bật đèn xin đường trái khi chuẩn bị nhập làn."}
+{"instruction": "Quan sát xe đi trước có lợi gì khi vào vùng ngập?", "input": "", "output": "Giúp đánh giá độ sâu và tình trạng mặt đường."}
+{"instruction": "Tại sao không được vượt đèn đỏ?", "input": "", "output": "Vì dễ gây va chạm nguy hiểm và vi phạm pháp luật."}
+{"instruction": "EBD có thể phối hợp với hệ thống nào để tăng hiệu quả?", "input": "", "output": "Thường kết hợp với ABS."}
+{"instruction": "Khi nào được phép di chuyển phương tiện sau tai nạn?", "input": "", "output": "Khi tai nạn nhẹ và không có thương vong."}
+{"instruction": "Tại sao bàn đạp phanh bị rung mạnh khi phanh gấp?", "input": "", "output": "Hệ thống ABS đang hoạt động hoặc đĩa phanh cong."}
+{"instruction": "Người tham gia giao thông văn minh sẽ làm gì khi thấy tai nạn?", "input": "", "output": "Giúp đỡ, báo cơ quan chức năng."}
+{"instruction": "Trong trường hợp nạn nhân hít phải khói và bất tỉnh, biện pháp nào nên được thực hiện ngay?", "input": "", "output": "Đặt nạn nhân vào tư thế hồi sức và kiểm tra nhịp thở"}
+{"instruction": "Giải thích: Khi tiến xe ra khỏi chỗ đỗ, quan sát gương chiếu hậu?", "input": "", "output": "Khi tiến xe ra khỏi chỗ đỗ, quan sát gương chiếu hậu và quay đầu nhìn, bật xi nhan trái, cài số tiến, đánh lái trái cho đầu xe ra ngoài rồi trả lái phải để xe đi thẳng."}
+{"instruction": "Khi tiếp điểm bóng đèn bị oxy hóa, hiện tượng gì xảy ra?", "input": "", "output": "Đèn sáng yếu hoặc chập chờn."}
+{"instruction": "Một cộng đồng ít rượu, bia sẽ có lợi ích gì?", "input": "", "output": "An toàn, hạnh phúc, phát triển bền vững."}
+{"instruction": "Khi nhả bàn đạp ly hợp, 1/3 hành trình cuối nhả thế nào?", "input": "", "output": "Nhả từ từ để tăng mô-men quay."}
+{"instruction": "Tác hại của việc phanh gấp khi chở hàng là gì?", "input": "", "output": "Dễ làm hàng xê dịch, xe mất lái hoặc lật."}
+{"instruction": "Nguyên nhân chủ yếu gây tai nạn giao thông ở Việt Nam là gì?", "input": "", "output": "Do lỗi của người lái xe."}
+{"instruction": "Nạn nhân hít khói có thể bị ngạt do đâu?", "input": "", "output": "Do CO gắn chặt vào hồng cầu."}
+{"instruction": "Khi tham gia giao thông trên đoạn đường không có biển báo \"cự ly tối thiểu giữa hai xe\", trong điều kiện mặt đường khô ráo, không có sương mù, mặt đường không trơn trượt, địa hình bằng phẳng, đường thẳng, tầm nhìn bảo đảm, xe cơ giới đang chạy với tốc độ 60 km/h, người lái xe phải giữ khoảng cách an toàn với xe đang chạy liền trước tối thiểu là bao nhiêu?", "input": "", "output": "35 m."}
+{"instruction": "Xe điện cháy khác xe xăng ở điểm nào?", "input": "", "output": "Khó dập hơn, cần thiết bị chuyên dụng."}
+{"instruction": "Nguyên nhân khiến hệ thống cân bằng điện tử không hoạt động?", "input": "", "output": "Cảm biến góc lái hoặc cảm biến tốc độ bánh xe hỏng."}
+{"instruction": "Khi phanh gấp trên đường trơn cần lưu ý gì?", "input": "", "output": "Đạp phanh dứt khoát nhưng kiểm soát để tránh trượt bánh."}
+{"instruction": "Có nên vượt vào chỗ hẹp khi đường trơn trượt không?", "input": "", "output": "Không, phải dừng và nhường đường."}
+{"instruction": "Xe máy đi vào vùng mù ô tô dễ gây gì?", "input": "", "output": "Tai nạn nghiêm trọng."}
+{"instruction": "Người lái xe có thể kiểm soát khoảng cách bằng cách nào?", "input": "", "output": "Quan sát điểm chuẩn ven đường và tính theo quy tắc giây."}
+{"instruction": "Ý thức đạo đức được hình thành từ đâu?", "input": "", "output": "Từ giáo dục, truyền thống gia đình, môi trường xã hội và trải nghiệm cá nhân."}
+{"instruction": "Các lỗi phổ biến dẫn đến tai nạn giao thông là gì?", "input": "", "output": "Vượt ẩu, chạy quá tốc độ, không tuân thủ tín hiệu."}
+{"instruction": "Khi tham gia giao thông, ý thức trách nhiệm được coi là gì?", "input": "", "output": "Là nền tảng của văn hóa giao thông."}
+{"instruction": "Một động cơ 4 kỳ 4 xi lanh có bao nhiêu kỳ sinh công trong mỗi vòng quay trục khuỷu?", "input": "", "output": "Có 2 kỳ sinh công trong mỗi vòng quay trục khuỷu."}
+{"instruction": "Có nên cho nạn nhân uống thuốc an thần sau co giật không?", "input": "", "output": "Không, chỉ bác sĩ mới được chỉ định."}
+{"instruction": "Người lái nên làm gì khi xe phía trước đang vượt?", "input": "", "output": "Giảm tốc để giữ an toàn cho cả hai xe."}
+{"instruction": "Người lái nên quan sát như thế nào khi lùi xe?", "input": "", "output": "Quan sát qua gương chiếu hậu hoặc quay hẳn đầu ra ngoài."}
+{"instruction": "Ưu điểm của trợ lực lái thủy lực là gì?", "input": "", "output": "Giúp người lái điều khiển nhẹ nhàng hơn, giảm lực tác động lên vô lăng."}
+{"instruction": "Nguyên nhân nào khiến động cơ không nổ dù đã khởi động đúng cách?", "input": "", "output": "Thiếu nhiên liệu, hỏng ắc quy hoặc sự cố kỹ thuật."}
+{"instruction": "Ắc quy được trang bị trên xe ô tô có tác dụng gì dưới đây?", "input": "", "output": "Để tích trữ điện năng, cung cấp cho các phụ tải khi máy phát chưa làm việc."}
+{"instruction": "Khi qua làn ETC (thu phí tự động), xe cần chuẩn bị gì?", "input": "", "output": "Tài khoản còn đủ tiền và dán thẻ nhận diện hợp lệ."}
+{"instruction": "Khi đi đường đèo dốc, điều gì quan trọng nhất?", "input": "", "output": "Giữ tốc độ thấp, sử dụng số thấp và quan sát kỹ."}
+{"instruction": "Khi làm việc, dụng cụ phòng hộ phải đảm bảo ra sao?", "input": "", "output": "Phải đầy đủ và đúng quy định an toàn."}
+{"instruction": "Khi đi qua đường ngầm có dòng chảy mạnh, cần chú ý gì?", "input": "", "output": "Không nên đi nếu mực nước cao quá nửa bánh xe."}
+{"instruction": "Giải thích: còn nếu điều khiển bằng điện tử, trong đó bơm cao áp?", "input": "", "output": "Còn nếu điều khiển bằng điện tử, trong đó bơm cao áp nén nhiên liệu và lưu trữ trong ray cung cấp."}
+{"instruction": "Khi nào cảnh báo điểm mù hoạt động?", "input": "", "output": "Khi có xe khác lọt vào vùng cảm biến."}
+{"instruction": "Khi giúp người khác, có nên đòi hỏi biết ơn không?", "input": "", "output": "Không."}
+{"instruction": "Khi phát hiện chảy dầu ở thước lái, người lái nên làm gì?", "input": "", "output": "Đưa xe đến cơ sở sửa chữa để khắc phục."}
+{"instruction": "Khi số xi lanh tăng, điều gì xảy ra với độ mượt khi vận hành?", "input": "", "output": "Động cơ chạy êm và ít rung hơn."}
+{"instruction": "Tư thế cầm vô lăng khi lùi xe đúng cách là gì?", "input": "", "output": "Tay nắm phần trên vô lăng để dễ kiểm soát hướng."}
+{"instruction": "Sau khi trả phí, tài xế cần chờ điều gì trước khi di chuyển tiếp?", "input": "", "output": "Chờ barie mở."}
+{"instruction": "Thiết bị nào hỗ trợ quan sát điểm mù khi lùi xe?", "input": "", "output": "Cảm biến lùi và camera chiếu hậu."}
+{"instruction": "Nếu dầu bôi trơn bị rò rỉ ra ngoài, hiện tượng nào có thể xảy ra?", "input": "", "output": "Động cơ thiếu dầu, tăng ma sát, nhanh nóng máy và dễ hỏng hóc."}
+{"instruction": "Trong chế độ xã hội chủ nghĩa, đạo đức thể hiện điều gì?", "input": "", "output": "Hợp tác và tương trợ giữa những người lao động"}
+{"instruction": "Đạo đức mới khuyến khích hành vi gì trong quan hệ lao động?", "input": "", "output": "Khuyến khích tinh thần trách nhiệm, trung thực, hợp tác và tôn trọng lẫn nhau."}
+{"instruction": "Điểm mù phụ thuộc vào yếu tố nào?", "input": "", "output": "Phụ thuộc vào kết cấu khoang lái và vị trí lắp đặt gương chiếu hậu."}
+{"instruction": "Vô lăng là gì?", "input": "", "output": "Vô lăng: Dùng để giữ và thay đổi hướng đi của xe, một số loại xe có thể điều chỉnh được vị trí vô lăng để phù hợp với người lái."}
+{"instruction": "Phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại là gì?", "input": "", "output": "Phần đường xe chạy."}
+{"instruction": "Xây dựng văn hóa giao thông góp phần phát triển lĩnh vực nào?", "input": "", "output": "Kinh tế, xã hội và an toàn cộng đồng."}
+{"instruction": "Hãy nêu công dụng ly hợp (côn) của xe ô tô?", "input": "", "output": "Dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của xe ô tô."}
+{"instruction": "Giải thích: cần vệ sinh hoặc thay van điều khiển dầu, kiểm tra và?", "input": "", "output": "Cần vệ sinh hoặc thay van điều khiển dầu, kiểm tra và khắc phục hệ thống điện, cảm biến."}
+{"instruction": "Khi xe bị lún sâu trong bùn, cần xử lý thế nào?", "input": "", "output": "Không cố thoát, mà gọi cứu hộ."}
+{"instruction": "Đồng hồ và đèn cảnh báo là gì?", "input": "", "output": "Đồng hồ và đèn cảnh báo: Liên tục quan sát đồng hồ và đèn cảnh báo lúc khởi hành và trong khi lái xe."}
+{"instruction": "Nhà trường xây dựng văn hóa giao thông cho học sinh bằng cách nào?", "input": "", "output": "Giáo dục, tập huấn và rèn kỹ năng."}
+{"instruction": "Hệ thống điều hòa là gì?", "input": "", "output": "Hệ thống điều hòa: Hệ thống điều hòa giúp duy trì nhiệt độ và độ ẩm thích hợp bên trong xe, tạo cảm giác thoải mái cho người lái và hành khách trong mọi điều kiện thời tiết.Điều chỉnh kính cửa: Chức năng điều chỉnh kính cửa cho phép người lái và hành khách dễ dàng mở hoặc đóng cửa sổ, giúp thông gió tự nhiên hoặc bảo vệ khỏi thời tiết bên ngoài."}
+{"instruction": "Tại sao phải thực hiện thao tác lùi xe từ từ?", "input": "", "output": "Để có thời gian xử lý khi gặp tình huống bất ngờ."}
+{"instruction": "Giải thích: trong trường hợp đường dốc hoặc phải chờ lâu, cần kéo phanh?", "input": "", "output": "Trong trường hợp đường dốc hoặc phải chờ lâu, cần kéo phanh tay để đảm bảo an toàn."}
+{"instruction": "Người lái xe ô tô cần có phẩm chất gì quan trọng nhất?", "input": "", "output": "Ý thức trách nhiệm cao đối với tính mạng bản thân và người khác."}
+{"instruction": "Khi xe rung lắc mạnh khi vào số, nguyên nhân thường do đâu?", "input": "", "output": "Cao su chân máy hoặc cao su hộp số hỏng."}
+{"instruction": "Vì sao cần lọc tinh nhiên liệu diesel?", "input": "", "output": "Vì vòi phun dễ hỏng khi có cặn bẩn."}
+{"instruction": "Rượu, bia có làm tăng nguy cơ ung thư vú không?", "input": "", "output": "Có."}
+{"instruction": "Tốc độ trên cao tốc nên duy trì thế nào?", "input": "", "output": "Duy trì tốc độ tối đa hoặc tối thiểu theo biển báo."}
+{"instruction": "Giải thích: Tác hại của rượu, bia đối với sức khỏe thì sẽ gây?", "input": "", "output": "Tác hại của rượu, bia đối với sức khỏe thì sẽ gây ra nhiều bệnh nguy hiểm như ung thư, bệnh tim mạch, xơ gan, rối loạn thần kinh;"}
+{"instruction": "Giải thích: không tự cô lập mình trên đường, luôn chú ý quan sát?", "input": "", "output": "Không tự cô lập mình trên đường, luôn chú ý quan sát xung quanh; xe máy đi vào vùng mù của ô tô dễ gây tai nạn;"}
+{"instruction": "Nhược điểm của common rail là gì?", "input": "", "output": "Chi phí cao, yêu cầu nhiên liệu sạch."}
+{"instruction": "Phun mồi trong động cơ diesel có tác dụng gì?", "input": "", "output": "Giúp quá trình cháy êm dịu, giảm tiếng gõ."}
+{"instruction": "Hành vi nào thể hiện tính cộng đồng trong giao thông?", "input": "", "output": "Nhường đường cho xe cấp cứu."}
+{"instruction": "Người có văn hóa giao thông coi trọng lợi ích nào?", "input": "", "output": "Lợi ích của bản thân và cộng đồng."}
+{"instruction": "Thân vỏ ô tô có tác dụng gì?", "input": "", "output": "Thân vỏ ô tô bảo vệ hành khách, tạo hình dáng và tăng tính khí động học."}
+{"instruction": "Hệ thống hỗ trợ tự ghép xe là gì?", "input": "", "output": "Hệ thống giúp xe tự động đánh lái để vào chỗ đỗ."}
+{"instruction": "Nếu hệ thống cảnh báo điểm mù không hoạt động, cần làm gì?", "input": "", "output": "Kiểm tra cảm biến, hệ thống điện hoặc đưa xe đi bảo dưỡng."}
+{"instruction": "Vai trò của đạo đức nghề nghiệp trong vận tải đường bộ là gì?", "input": "", "output": "Đảm bảo an toàn, nâng cao uy tín cá nhân và doanh nghiệp."}
+{"instruction": "Sau lọc thô, dầu diesel đi qua đâu?", "input": "", "output": "Qua bầu lọc tinh."}
+{"instruction": "Nếu đám cháy pin lan mạnh, việc cần làm nhất là gì?", "input": "", "output": "Sơ tán và gọi cứu hỏa."}
+{"instruction": "Nếp sống văn hóa giao thông góp phần xây dựng hình ảnh gì cho quốc gia?", "input": "", "output": "Hình ảnh văn minh và an toàn."}
+{"instruction": "Tại sao cần mở khóa hãm trước khi vào số lùi trên một số xe?", "input": "", "output": "Để tránh vào số lùi nhầm khi đang chạy tiến."}
+{"instruction": "Truyền thông đại chúng hỗ trợ xây dựng văn hóa giao thông ra sao?", "input": "", "output": "Tuyên truyền, lan tỏa thông điệp an toàn."}
+{"instruction": "Khi vào số lùi, có cần nhả ly hợp từ từ không?", "input": "", "output": "Có, để xe lùi êm và an toàn."}
+{"instruction": "Người có giấy phép lái xe hạng d1 được điều khiển loại xe nào dưới đây?", "input": "", "output": "Xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng d1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg."}
+{"instruction": "Gạt nước, phun nước rửa kính là gì?", "input": "", "output": "Gạt nước, phun nước rửa kính: Hệ thống gạt nước và phun nước rửa kính đảm bảo kính chắn gió luôn sạch sẽ, giúp cải thiện tầm nhìn của người lái, đặc biệt trong điều kiện mưa hoặc bụi bẩn."}
+{"instruction": "Giải thích: dừng xe sát bên trái cổng thu phí để thuận tiện trả?", "input": "", "output": "Dừng xe sát bên trái cổng thu phí để thuận tiện trả tiền và lấy vé, sau đó chờ barie mở rồi tiếp tục hành trình."}
+{"instruction": "Đi sát lề phải khi lên dốc giúp ích gì?", "input": "", "output": "Tạo không gian cho xe ngược chiều."}
+{"instruction": "Vì sao phải giữ vệ sinh trong xưởng?", "input": "", "output": "Để đảm bảo môi trường làm việc an toàn và phòng chống cháy nổ."}
+{"instruction": "Bảo dưỡng hộp số định kỳ có lợi ích gì?", "input": "", "output": "Giúp hộp số hoạt động ổn định, tránh hỏng nặng."}
+{"instruction": "Xây dựng văn hóa giao thông thể hiện điều gì của quốc gia?", "input": "", "output": "Sự văn minh và phát triển."}
+{"instruction": "Người lái xe chuyên nghiệp cần rèn luyện thường xuyên điều gì?", "input": "", "output": "Kỹ năng lái, ý thức trách nhiệm và đạo đức nghề nghiệp."}
+{"instruction": "Hệ thống hỗ trợ phanh khẩn cấp bị lỗi gây nguy hiểm gì?", "input": "", "output": "Giảm khả năng phanh trong tình huống khẩn cấp."}
+{"instruction": "Tình hình tai nạn giao thông ở Việt Nam hiện nay thế nào?", "input": "", "output": "Rất nghiêm trọng, gây thiệt hại lớn về người và tài sản."}
+{"instruction": "Xe vận chuyển hàng siêu trường, siêu trọng phải thực hiện các quy định nào dưới đây để bảo đảm an toàn giao thông?", "input": "", "output": "Phải chạy với tốc độ quy định trong giấy phép và phải có báo hiệu kích thước của hàng; trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường bộ."}
+{"instruction": "Tại sao cần nhả ly hợp 2/3 hành trình trước khi tăng ga?", "input": "", "output": "Để bánh đà tiếp xúc, tạo lực kéo ban đầu."}
+{"instruction": "Dầu hộp số không đạt chuẩn gây tác hại gì?", "input": "", "output": "Làm giảm khả năng bôi trơn, tăng nhiệt."}
+{"instruction": "Người uống rượu, bia nhiều dễ bị kỳ thị xã hội không?", "input": "", "output": "Có."}
+{"instruction": "Xe đầu kéo có điểm mù nguy hiểm ở đâu?", "input": "", "output": "Phía trước cabin, hai bên sườn xe và phía sau rơ moóc."}
+{"instruction": "Nguyên nhân khớp nối hệ thống treo bị rơ lỏng?", "input": "", "output": "Do bạc đạn mòn, ốc vít lỏng."}
+{"instruction": "Khi dừng đỗ trên dốc, ngoài kéo phanh tay cần làm gì thêm?", "input": "", "output": "Về số phù hợp (P hoặc số 1) để tránh trôi xe."}
+{"instruction": "Ắc quy cần được kiểm tra định kỳ bao lâu một lần?", "input": "", "output": "Khoảng 6 tháng/lần."}
+{"instruction": "Hình phạt nào mang tính răn đe mạnh nhất đối với người lái xe say rượu?", "input": "", "output": "Phạt tù."}
+{"instruction": "Giải thích: tuyệt đối không chui gầm khi xe đang nổ máy.?", "input": "", "output": "Tuyệt đối không chui gầm khi xe đang nổ máy."}
+{"instruction": "Đặc điểm nổi bật của nền đạo đức xã hội chủ nghĩa là gì?", "input": "", "output": "Đề cao lợi ích tập thể, công bằng xã hội và sự phát triển toàn diện của con người."}
+{"instruction": "Ý thức đạo đức ảnh hưởng đến lựa chọn nghề nghiệp thế nào?", "input": "", "output": "Người có ý thức đạo đức chọn nghề phù hợp với giá trị nhân văn và trách nhiệm xã hội."}
+{"instruction": "Cách xử lý khi động cơ quá nhiệt trên đường?", "input": "", "output": "Dừng xe an toàn, tắt máy, chờ nguội rồi kiểm tra nước làm mát."}
+{"instruction": "Nếu xe xuống dốc dài, nên dùng số nào?", "input": "", "output": "Nên về số thấp (2 hoặc L)."}
+{"instruction": "Khi chuyển làn đường, người lái xe phải bật đèn tín hiệu báo rẽ như thế nào là đúng quy tắc giao thông?", "input": "", "output": "Trước khi thay đổi làn đường."}
+{"instruction": "Khi lái xe đến gần trạm thu phí, tài xế cần làm gì đầu tiên?", "input": "", "output": "Giảm tốc độ."}
+{"instruction": "Trên đường bộ ngoài khu vực đông dân cư, đường hai chiều hoặc đường một chiều có một làn xe cơ giới (trừ đường cao tốc), loại xe nào dưới đây được tham gia giao thông với tốc độ khai thác tối đa cho phép là 60 km/h?", "input": "", "output": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)."}
+{"instruction": "Trình tự xử lý gãy xương chảy máu gồm mấy bước?", "input": "", "output": "Cầm máu → Băng ép → Cố định xương."}
+{"instruction": "Trong điều kiện mưa đường trơn, khi rẽ cần thao tác thế nào?", "input": "", "output": "Giảm tốc nhiều hơn và đánh lái nhẹ nhàng."}
+{"instruction": "Tại sao cần bật đèn khẩn cấp khi xe hỏng?", "input": "", "output": "Để cảnh báo người khác."}
+{"instruction": "Tại sao cần điện áp cao để đánh lửa?", "input": "", "output": "Vì cần tia lửa mạnh để đốt cháy hỗn hợp xăng – không khí trong xi lanh."}
+{"instruction": "Nếu xe phía trước dừng lại giữa đường sắt, lái xe phía sau cần xử lý thế nào?", "input": "", "output": "Dừng lại trước đường ray, tuyệt đối không tiến vào."}
+{"instruction": "Trong ký hiệu 215/60R16, số 16 thể hiện điều gì?", "input": "", "output": "Đường kính vành (16 inch)."}
+{"instruction": "Cách xử lý tiếng kêu cót két khi đánh lái?", "input": "", "output": "Thay rô tuyn, khớp láp hỏng."}
+{"instruction": "Nhiệt độ làm việc ổn định của động cơ có lợi ích gì?", "input": "", "output": "Tăng hiệu suất và giảm mài mòn chi tiết."}
+{"instruction": "Khi lùi xe lên dốc mà không dùng phanh tay, hậu quả là gì?", "input": "", "output": "Xe có thể trôi ngược và gây tai nạn."}
+{"instruction": "Trước khi di chuyển phương tiện, cần làm gì?", "input": "", "output": "Ghi lại hiện trạng hoặc chụp ảnh."}
+{"instruction": "Xe chạy trên đường xấu thường gây hại cho bộ phận nào?", "input": "", "output": "Hệ thống giảm xóc và lốp xe."}
+{"instruction": "Cầm máu không trực tiếp thường chỉ mang tính gì?", "input": "", "output": "Tạm thời, chờ biện pháp khác hiệu quả hơn."}
+{"instruction": "Lốp bị phồng rộp do nguyên nhân gì?", "input": "", "output": "Do va đập mạnh hoặc chất lượng kém."}
+{"instruction": "Khi xe chết máy giữa dốc, cần làm gì đầu tiên?", "input": "", "output": "Đạp côn, phanh và kéo phanh tay giữ xe đứng yên."}
+{"instruction": "Người lái cần đạp ga như thế nào khi bắt đầu khởi hành trên dốc?", "input": "", "output": "Tăng ga nhẹ để đủ lực kéo."}
+{"instruction": "Giải thích: kiểm soát nhiệt độ pin để tránh hoạt động công suất cao?", "input": "", "output": "Kiểm soát nhiệt độ pin để tránh hoạt động công suất cao liên tục hoặc để xe dưới nắng gắt;"}
+{"instruction": "Số điện thoại gọi cấp cứu y tế là gì?", "input": "", "output": "115."}
+{"instruction": "Mục đích của việc nhả ly hợp theo 2 giai đoạn là gì?", "input": "", "output": "Giúp xe khởi hành êm, tránh rung giật."}
+{"instruction": "Tại sao mặt đường hẹp trên dốc nguy hiểm?", "input": "", "output": "Vì khó tránh nhau, dễ va chạm."}
+{"instruction": "Lốp non hơi ảnh hưởng thế nào đến xe?", "input": "", "output": "Tăng tiêu hao nhiên liệu và dễ hỏng lốp."}
+{"instruction": "Tại sao cần quan sát gương chiếu hậu trước khi vượt xe?", "input": "", "output": "Để tránh trường hợp xe sau cũng đang vượt cùng lúc."}
+{"instruction": "Khi tăng số, thao tác nhả ly hợp cần nhanh hay chậm?", "input": "", "output": "Nhả nhanh hơn so với khi khởi hành."}
+{"instruction": "Khi gặp tai nạn giao thông, lái xe cần làm gì?", "input": "", "output": "Dừng lại hỗ trợ, gọi cứu hộ và báo cơ quan chức năng."}
+{"instruction": "Giải thích: nếu hệ thống đạo đức không phù hợp, nó có thể mang?", "input": "", "output": "Nếu hệ thống đạo đức không phù hợp, nó có thể mang tính tiêu cực, phản động và phản nhân đạo;"}
+{"instruction": "Nguyên nhân khiến xe bị hao dầu động cơ bất thường?", "input": "", "output": "Do phớt chắn dầu mòn, piston mòn hoặc dầu kém chất lượng."}
+{"instruction": "Nguyên nhân thường gặp của co giật khi tai nạn giao thông?", "input": "", "output": "Tổn thương sọ não hoặc mất oxy não."}
+{"instruction": "Ví dụ về hành vi đạo đức trong quan hệ quốc tế.?", "input": "", "output": "Tôn trọng luật pháp quốc tế, hợp tác cùng phát triển, không xâm phạm lợi ích quốc gia khác."}
+{"instruction": "Cách xử lý tiếng ù trong hệ thống lái?", "input": "", "output": "Bổ sung dầu trợ lực hoặc thay bơm."}
+{"instruction": "Trong trường hợp đường quá hẹp, xe nào nên nhường?", "input": "", "output": "Một xe cần dừng lại để nhường đường."}
+{"instruction": "Nếu lọc gió bẩn có thể gây hiện tượng gì?", "input": "", "output": "Khói đen và tiêu hao nhiên liệu tăng."}
+{"instruction": "Đèn màu vàng hoặc cam có ý nghĩa gì?", "input": "", "output": "Cảnh báo mức trung bình, xe vẫn chạy được nhưng cần kiểm tra sớm."}
+{"instruction": "Khi tay lái nặng về một bên, liên quan đến đâu?", "input": "", "output": "Lốp mòn không đều hoặc áp suất lốp lệch nhau."}
+{"instruction": "Sau khi xe ngược chiều đi qua, tài xế cần làm gì tiếp theo?", "input": "", "output": "Bật đèn tín hiệu xin đường bên trái, vào số 1, quan sát và nhả ly hợp, phối hợp tăng ga khởi hành."}
+{"instruction": "Giải thích: vành ô tô con, thể thao thường làm từ hợp kim nhôm,?", "input": "", "output": "Vành ô tô con, thể thao thường làm từ hợp kim nhôm, còn vành xe tải, xe khách làm từ thép lá dập;"}
+{"instruction": "Giải thích: thực hiện hô hấp nhân tạo bao gồm đặt nạn nhân nằm?", "input": "", "output": "Thực hiện hô hấp nhân tạo bao gồm đặt nạn nhân nằm ngửa, khai thông đường thở;"}
+{"instruction": "Giải thích: Khi lùi xe ghép ngang, cần kiểm tra an toàn qua gương?", "input": "", "output": "Khi lùi xe ghép ngang, cần kiểm tra an toàn qua gương chiếu hậu, hông xe và quan sát xung quanh;"}
+{"instruction": "Giải thích: động cơ đốt trong 4 kỳ một xi lanh hoạt động theo?", "input": "", "output": "Động cơ đốt trong 4 kỳ một xi lanh hoạt động theo trình tự kỳ nạp (piston đi xuống, xu páp hút mở, hỗn hợp nhiên liệu - không khí vào), kỳ nén (piston đi lên, cả hai xu páp đóng, hỗn hợp bị nén lại), kỳ nổ (hỗn hợp cháy nhờ bugi ở động cơ xăng, tự cháy ở động cơ diesel, piston bị đẩy xuống) và kỳ xả (piston đi lên, xu páp xả mở, khí cháy thoát ra);"}
+{"instruction": "Lùi xe ghép ngang sai kỹ thuật thường gây ra vấn đề gì?", "input": "", "output": "Xe bị lệch, không vào được đúng chỗ đỗ."}
+{"instruction": "Khi khởi động ô tô số sàn, cần cài số nào trước?", "input": "", "output": "Cài số 0."}
+{"instruction": "Vành xe còn có tên gọi khác là gì?", "input": "", "output": "La răng."}
+{"instruction": "Ý nghĩa nhân văn của việc giảm tai nạn giao thông là gì?", "input": "", "output": "Bảo vệ tính mạng, hạnh phúc cho mỗi gia đình."}
+{"instruction": "Gia đình có người nghiện rượu thường rơi vào tình trạng gì?", "input": "", "output": "Bạo lực, bất hòa, khó khăn tài chính."}
+{"instruction": "Vì sao không được dùng búa khi xiết bu lông?", "input": "", "output": "Gây hư hỏng ren và nguy cơ tai nạn."}
+{"instruction": "Tại sao đạo đức nghề nghiệp gắn liền với hiệu quả kinh doanh?", "input": "", "output": "Vì đạo đức tốt tạo uy tín, giữ khách hàng, tăng lợi nhuận."}
+{"instruction": "Cảnh báo thường hiển thị bằng hình thức nào?", "input": "", "output": "Âm thanh, rung vô lăng hoặc cảnh báo trên màn hình."}
+{"instruction": "Nếu quần áo bị cháy dính chặt vào da, cần xử lý thế nào?", "input": "", "output": "Không kéo mạnh, chỉ cắt phần không dính."}
+{"instruction": "Ảnh hưởng của rượu, bia đến phụ nữ mang thai là gì?", "input": "", "output": "Gây dị tật thai nhi, ảnh hưởng trí não trẻ."}
+{"instruction": "Có nên cố gắng đi vào đường hẹp khi xe khác đang tới không?", "input": "", "output": "Không, vì dễ gây va chạm nguy hiểm."}
+{"instruction": "Trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, người lái xe không được vượt xe khác trong trường hợp nào dưới đây?", "input": "", "output": "Có chướng ngại vật phía trước, xe chạy phía trước có tín hiệu vượt xe khác."}
+{"instruction": "Giai đoạn 2 khi đạp ly hợp là gì?", "input": "", "output": "Đạp nửa hành trình."}
+{"instruction": "Hàng hóa dễ gây bụi bẩn phải xử lý thế nào?", "input": "", "output": "Cần che chắn kỹ bằng bạt hoặc vật liệu bảo vệ."}
+{"instruction": "Nguyên nhân xe phát ra tiếng kêu lọc cọc dưới gầm khi chạy?", "input": "", "output": "Cao su càng A hoặc càng nhún hỏng."}
+{"instruction": "Khi dừng hoặc đỗ xe, cần thao tác gì?", "input": "", "output": "Về số P hoặc kéo phanh tay."}
+{"instruction": "Vì sao cần ghi chú thời gian đặt garo?", "input": "", "output": "Để tránh hoại tử do thiếu máu nuôi."}
+{"instruction": "Giải thích: Khi vào số lùi (R), phải đưa cần số về số 0,?", "input": "", "output": "Khi vào số lùi (R), phải đưa cần số về số 0, đạp hết ly hợp rồi gạt cần số vào vị trí số lùi;"}
+{"instruction": "Sự vô kỷ luật của một tài xế ảnh hưởng thế nào đến công ty?", "input": "", "output": "Làm giảm uy tín, có thể gây thiệt hại lớn."}
+{"instruction": "Dấu hiệu trật khớp khác gì so với bong gân?", "input": "", "output": "Biến dạng khớp, mất khả năng cử động."}
+{"instruction": "Khi xe điện đang cháy, tài xế cần làm gì trước tiên?", "input": "", "output": "Cắt nguồn điện và sơ tán hành khách."}
+{"instruction": "Nếu thấy tàu đang đến gần, tài xế phải làm gì?", "input": "", "output": "Dừng lại ngay và giữ khoảng cách an toàn."}
+{"instruction": "Để đạt được hiệu quả phanh cao nhất, người lái xe mô tô phải sử dụng các kỹ năng như thế nào dưới đây?", "input": "", "output": "Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước."}
+{"instruction": "Đặc điểm của số 1 trong hộp số cơ khí là gì?", "input": "", "output": "Mô-men xoắn lớn, dùng để khởi hành."}
+{"instruction": "Khi lái xe ban đêm nên giữ khoảng cách thế nào?", "input": "", "output": "Xa hơn bình thường vì tầm nhìn hạn chế."}
+{"instruction": "Ở chế độ không tải, lượng phun thế nào?", "input": "", "output": "ECU điều chỉnh phun ít để duy trì vòng tua ổn định."}
+{"instruction": "Người lái xe có thể giúp đồng nghiệp thế nào trên đường?", "input": "", "output": "Hỗ trợ khi xe gặp sự cố hoặc cần thông tin."}
+{"instruction": "Số 2 trên hộp số tự động thường dùng khi nào?", "input": "", "output": "Khi leo dốc hoặc xuống dốc."}
+{"instruction": "Giải thích: tầm nhìn hạn chế nên khi lái xe cần thành thạo phanh,?", "input": "", "output": "Tầm nhìn hạn chế nên khi lái xe cần thành thạo phanh, ga, côn và số."}
+{"instruction": "Đường dốc quanh co gấp khúc gây khó khăn gì?", "input": "", "output": "Giảm tầm nhìn, khó phán đoán xe ngược chiều."}
+{"instruction": "Khi sử dụng bình chữa cháy, phun vào đâu để hiệu quả nhất?", "input": "", "output": "Phun từ mép đám cháy vào trung tâm lửa."}
+{"instruction": "Khi gặp chốt kiểm tra, người lái xe cần làm gì?", "input": "", "output": "Chấp hành hiệu lệnh, kiểm tra nồng độ cồn."}
+{"instruction": "Vì sao không nên chạy xe khi hộp số bị rò rỉ dầu?", "input": "", "output": "Vì dễ gây hỏng nặng toàn bộ hộp số."}
+{"instruction": "Biển báo giao thông về rượu, bia giúp ích gì?", "input": "", "output": "Nhắc nhở tài xế trước khi tham gia giao thông."}
+{"instruction": "Nếu bánh xe lệch khỏi băng gỗ trên cầu gỗ, hậu quả là gì?", "input": "", "output": "Dễ trượt bánh hoặc mắc kẹt."}
+{"instruction": "Đạo đức điều chỉnh hành vi con người bằng cách nào?", "input": "", "output": "Bằng hệ thống chuẩn mực, quy tắc và niềm tin nội tâm, không dựa vào cưỡng chế pháp luật."}
+{"instruction": "Giải thích: Với xe số tự động, đạp phanh, kiểm tra cần số ở?", "input": "", "output": "Với xe số tự động, đạp phanh, kiểm tra cần số ở vị trí P hoặc N rồi vặn chìa hoặc bấm nút START."}
+{"instruction": "Vì sao nên tắt điều hòa khi đi qua ngập?", "input": "", "output": "Để giảm tải động cơ và tránh hỏng quạt gió."}
+{"instruction": "Giải thích: kiểm tra nạn nhân là đánh giá nhận thức, hô hấp, tuần?", "input": "", "output": "Kiểm tra nạn nhân là đánh giá nhận thức, hô hấp, tuần hoàn, chảy máu và tổn thương khác để xác định tình trạng nạn nhân;"}
+{"instruction": "Người dân có thể giúp tài xế thế nào?", "input": "", "output": "Hỗ trợ điều hướng giao thông."}
+{"instruction": "Giải thích: Hoạt động tuyên truyền, giáo dục gồm các chương trình trên truyền?", "input": "", "output": "Hoạt động tuyên truyền, giáo dục gồm các chương trình trên truyền hình, biển báo, nội dung giáo dục trong trường học và đào tạo lái xe, hợp tác với doanh nghiệp và tổ chức quốc tế nhằm nâng cao ý thức cộng đồng;"}
+{"instruction": "Những hành vi nào sau đây thể hiện là người có văn hóa giao thông?", "input": "", "output": "Luôn tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ, nhường nhịn và giúp đỡ người khác."}
+{"instruction": "Trên đường, xe kéo moóc nên duy trì tốc độ thế nào?", "input": "", "output": "Duy trì tốc độ đều, tránh thay đổi đột ngột."}
+{"instruction": "Có nên nắn lại xương gãy về vị trí ban đầu không?", "input": "", "output": "Không, chỉ nên giữ nguyên."}
+{"instruction": "Lái xe cần báo vị trí sự cố cho ai trước tiên?", "input": "", "output": "Nhân viên đường sắt gần nhất."}
+{"instruction": "Nguyên nhân vô lăng phát ra tiếng lạch cạch khi đi qua ổ gà?", "input": "", "output": "Do rô tuyn hoặc khớp nối hệ thống lái bị mòn."}
+{"instruction": "Trong common rail, nhiên liệu được nén và lưu trữ ở đâu?", "input": "", "output": "Trong ống rail (ống phân phối áp suất cao)."}
+{"instruction": "Cách xử lý xe rung khi tăng tốc?", "input": "", "output": "Thay khớp láp mới."}
+{"instruction": "Tình huống thể hiện văn hóa giao thông tốt ?", "input": "", "output": "Nhường đường cho người đi bộ, giúp đỡ người già và trẻ em qua đường, hỗ trợ người bị tai nạn bằng cách gọi cấp cứu hoặc sơ cứu nếu có thể, chia sẻ thông tin về tình hình giao thông để giúp đỡ những người khác di chuyển an toàn"}
+{"instruction": "Giải thích: trước khi xuất phát với xe kéo và moóc, cần kiểm tra?", "input": "", "output": "Trước khi xuất phát với xe kéo và moóc, cần kiểm tra bộ phận nối, áp suất lốp, hệ thống điện và phanh, và khi dừng để xếp dỡ hàng thì cần kiểm tra lại;"}
+{"instruction": "Giải thích: Gãy xương có dấu hiệu đau nhức dữ dội, sưng tấy, bầm?", "input": "", "output": "Gãy xương có dấu hiệu đau nhức dữ dội, sưng tấy, bầm tím, mất khả năng cử động;"}
+{"instruction": "Tại sao không nên phanh gấp trên đường trơn?", "input": "", "output": "Vì dễ mất lái và trượt bánh."}
+{"instruction": "Thời điểm phun sớm hay muộn do ai quyết định trong common rail?", "input": "", "output": "ECU quyết định."}
+{"instruction": "Khi gặp người đi bộ qua đường, tài xế cần làm gì?", "input": "", "output": "Giảm tốc độ, dừng lại nhường đường."}
+{"instruction": "Lái xe qua khu vực xe hỏng nên giữ khoảng cách bao nhiêu?", "input": "", "output": "Khoảng cách an toàn đủ để phản ứng kịp."}
+{"instruction": "Đèn báo bật đèn pha sáng có ý nghĩa gì?", "input": "", "output": "Đèn pha đang bật, cần chú ý khi đi trong khu dân cư."}
+{"instruction": "Nút điều khiển trên vô lăng thường dùng để làm gì?", "input": "", "output": "Dùng để điều khiển âm thanh, gọi điện, điều khiển hành trình (cruise control)."}
+{"instruction": "Vì sao nên chọn số 1 hoặc 2 khi dừng xe trên dốc?", "input": "", "output": "Để tận dụng lực hãm của động cơ."}
