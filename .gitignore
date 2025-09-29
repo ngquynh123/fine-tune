@@ -32,12 +32,18 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 
-# Model outputs (exclude all model files)
+# Model outputs (exclude all model files except out-phogpt-lora)
 output*/
-out*/
+# out*/ - commented out to allow out-phogpt-lora/
+!out-phogpt-lora/
 *.bin
 *.safetensors
 training_args.bin
+
+# Allow specific files in out-phogpt-lora
+!out-phogpt-lora/*.json
+!out-phogpt-lora/README.md
+!out-phogpt-lora/*.safetensors
 
 # But keep README files in output directories
 !*/README.md
