@@ -32,12 +32,15 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 
-# Model outputs
+# Model outputs (exclude all model files)
 output*/
 out*/
 *.bin
 *.safetensors
 training_args.bin
+
+# But keep README files in output directories
+!*/README.md
 
 # Logs
 *.log
